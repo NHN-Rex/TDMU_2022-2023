@@ -1,0 +1,17 @@
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\bin\Debug\net6.0-windows\FormSinhVien.exe
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\bin\Debug\net6.0-windows\FormSinhVien.deps.json
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\bin\Debug\net6.0-windows\FormSinhVien.runtimeconfig.json
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\bin\Debug\net6.0-windows\FormSinhVien.dll
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\bin\Debug\net6.0-windows\FormSinhVien.pdb
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.csproj.AssemblyReference.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.Form1.resources
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.csproj.GenerateResource.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.AssemblyInfoInputs.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.AssemblyInfo.cs
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.csproj.CoreCompileInputs.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.dll
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\refint\FormSinhVien.dll
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.pdb
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\FormSinhVien.genruntimeconfig.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\22-5-2023\BT_22_5_2023\FormSinhVien\obj\Debug\net6.0-windows\ref\FormSinhVien.dll

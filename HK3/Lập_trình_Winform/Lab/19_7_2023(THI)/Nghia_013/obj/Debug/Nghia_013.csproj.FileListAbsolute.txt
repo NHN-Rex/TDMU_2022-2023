@@ -1,0 +1,14 @@
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\bin\Debug\Nghia_013.exe.config
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\bin\Debug\Nghia_013.exe
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\bin\Debug\Nghia_013.pdb
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.csproj.AssemblyReference.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.csproj.SuggestedBindingRedirects.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.Form_Main.resources
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.Properties.Resources.resources
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.csproj.GenerateResource.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.csproj.CoreCompileInputs.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.exe
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.pdb
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.Child_Form.Form_Sphere.resources
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.Child_Form.Form_Complex.resources
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\Lab\19_7_2023(THI)\Nghia_013\obj\Debug\Nghia_013.Child_Form.Form_Cylinder.resources

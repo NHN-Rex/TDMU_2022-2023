@@ -1,0 +1,16 @@
+CÁC ĐẶC TRƯNG:
+1) Tính đơn nghĩa: Mỗi bước trong giải thuật, các thao tác phải hết sức rõ ràng, không gây sự nhập nhằng, lộn xộn, tuỳ tiện, đa nghĩa.
+2) Tính dừng: Giải thuật khong được rơi vào quá trình vô hạng phải dừng sau 1 số bước hữu hạn và cho kết quả.
+3) Tính đúng: Sau khi thực hiện tất cả các bước của giải thuật với quá trình đã định, ta phải được kết quả mong muốn với mọi dữ liệu đầu vào.
+	Kết quả được kiểm chứng bằng yêu cầu của bài toán.
+4) Tính phổ dụng: Giải thuật phải dễ sửa đổi để thích ứng được với bất kỳ bài toán nào trong một lớp các bài toán có thể làm việc trên các
+	dữ liệu khác nhau.
+5) Tính thực thi: 
+	+ Kích thước phải đủ nhỏ: bộ nhớ mà giải thuật yêu cầu không thể vượt quá khả năng lưu trữ của máy tính.
+	+ Giải thuật phải chuyển được thành chương trình.
+	+ Giải thuật phải được máy tính thực hiện trong thời gian cho phép.
+ĐỘ PHỨC TẠP:
+1) Độ phức tạp của giải thuật là chi phí về tài nguyên của hệ thống (chủ yếu là thời gian, bộ nhớ, CPU, đường truyền) cần thiết để thực hiện giải thuật.
+	+ Độ phức tạp về không gian (dung lượng bộ nhớ sử dụng)
+	+ Độ phức tạp về thời gian:
+		+

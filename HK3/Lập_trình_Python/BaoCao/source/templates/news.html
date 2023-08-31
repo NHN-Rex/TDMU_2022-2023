@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DANH MỤC BÀI BÁO</title>
+    <style>
+        *{ 
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+        }
+
+        body{
+            background-color: #CCFFFF;
+        }
+
+        .home{
+            text-align: center;
+            font-size: 80px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+
+        .head{
+            width: auto;
+            height: 45px;
+            background-color: #CCFFFF;
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+
+        a{
+            vertical-align: middle;
+            text-decoration: none;
+            color: black;
+            padding-left: 50px;
+        }
+
+        H1{
+            text-align: center;
+            font-size: 50px;
+        }
+
+        .form-group{
+            text-align: center;
+            padding-top: 50px;
+            padding-bottom: 30px;
+        }
+
+        tr, td, .table{
+            text-align: center;
+            width: 100%;
+            border: 1px solid;
+            border-collapse: collapse;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div class="head">
+        <a href="http://127.0.0.1:5000">Home</a>
+        <a href="http://127.0.0.1:5000/category">Category</a>
+        <a href="http://127.0.0.1:5000/news">News</a>
+    </div>
+    <H1>
+        DANH MỤC BÀI BÁO
+    </H1>
+    <p>
+    <form>
+        <div class ="form-group">
+            <lable>Tìm kiếm tiêu đề</lable>
+            <input type ="text" name = "keywords">
+            <input type = "submit" value = "tìm">
+        </div>
+    </form>
+    </p>
+    <table class = "table">
+        <tr>
+            <th>Tiêu Đề</th>
+            <!-- <th>Nội Dung</th> -->
+            <th>Link Bài Báo</th>
+            <th>Hình Ảnh</th>
+        </tr>
+        {% for news in data %}
+        <tr>
+            <!-- <td>
+                {{news.id}}
+            </td> -->
+            <td>
+                {{news.tieude}} 
+            </td>
+            <!-- <td>
+                {{news.noidung}}
+            </td> -->
+            <td>
+                {{news.video}}
+            </td>
+            <td>
+                {{news.hinhanh}}
+            </td>
+            <!-- <td>
+                {{news.id_trang}}
+            </td> -->
+        </tr>
+        {% endfor %}
+</table>
+</body>
+</html>

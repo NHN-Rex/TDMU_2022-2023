@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>TÌM KIẾM BÀI BÁO</title>
+    <style>
+        *{ 
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+        }
+
+        body{
+            background-color: #CCFFFF;
+        }
+
+        .home{
+            text-align: center;
+            font-size: 80px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+
+        .head{
+            width: auto;
+            height: 45px;
+            /* background-color: #CCFFFF; */
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+        H1{
+            vertical-align: middle;
+            padding-top: 5px;
+        }
+
+        a{
+            vertical-align: middle;
+            text-decoration: none;
+            color: black;
+            padding-left: 50px;
+            font-size: 60px;
+
+        }
+
+        .button{
+            position: relative;
+            width: 100%;
+            height: 200px;
+            text-align: center;
+            padding-top: 150px;
+        }
+
+        .sv{
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        <form action = "/new/<keywords>">
+            <div class="head">
+                <H1>BÁO CÁO MÔN LẬP TRÌNH PYTHON</H1>
+                
+            </div>
+            <div class="sv">
+                <h5>Sinh viên thực hiện</h5>
+                Nguyễn Hữu Nghĩa - 2124802050013
+                <br>
+                Trần Trung Nguyên - 2124802050007
+                <h5>Giảng viên hướng dẫn</h5>
+                ThS.Nguyễn Thế Bảo
+            </div>
+            <div class = "button">
+                <a href="http://127.0.0.1:5000">Home</a>
+                <a href="http://127.0.0.1:5000/category">Category</a>
+                <a href="http://127.0.0.1:5000/news">News</a>
+            </div>
+            <!-- <div class="home">Trang Chủ</div> -->
+            <!-- <div class = "form-group">
+                <lable>Tìm theo keywwords</lable>
+                <input type = "text" name = "keywwords"> <br>
+                <input type = "submit" value = "Tìm">
+            </div> -->
+        </form>
+    </p>
+</body>
+</html>

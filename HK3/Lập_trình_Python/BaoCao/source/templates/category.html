@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ctegory</title>
+    <style>
+        *{ 
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+        }
+
+        body{
+            background-color: #CCFFFF;
+        }
+
+        .home{
+            text-align: center;
+            font-size: 80px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+
+        H1{
+            text-align: center;
+            font-size: 50px;
+        }
+        .head{
+            width: auto;
+            height: 45px;
+            background-color: #CCFFFF;
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            font-family: monospace;
+        }
+
+        a{
+            vertical-align: middle;
+            text-decoration: none;
+            color: black;
+            padding-left: 50px;
+        }
+        tr, td, .table{
+            text-align: center;
+            width: 100%;
+            border: 1px solid;
+            border-collapse: collapse;
+            vertical-align: middle;
+        }
+    </style>
+</head>
+<body>
+    <div class="head">
+        <a href="http://127.0.0.1:5000">Home</a>
+        <a href="http://127.0.0.1:5000/category">Category</a>
+        <a href="http://127.0.0.1:5000/news">News</a>
+    </div>
+    <div>
+        <h1>DANH MỤC TRANG TÌM KIẾM</h1>
+    </div>
+    <table class = "table">
+        <tr>
+            <th>ID</th>
+            <th>Tên trang báo</th>
+            <link> trang chủ bài báo</link>
+        </tr>
+        {% for cat in data %}
+        <tr>
+            {{cat.id}}
+        </tr>
+        <td>
+            {{cat.tentrangbao}}
+        </td>
+        <td>
+            {{cat.url}}
+        </td>
+        {% endfor %}
+    </table>
+</body>
+</html>

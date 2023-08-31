@@ -1,0 +1,20 @@
+C:\Users\nghia\source\repos\MDI Form\MDI Form\bin\Debug\net6.0-windows\MDI Form.exe
+C:\Users\nghia\source\repos\MDI Form\MDI Form\bin\Debug\net6.0-windows\MDI Form.deps.json
+C:\Users\nghia\source\repos\MDI Form\MDI Form\bin\Debug\net6.0-windows\MDI Form.runtimeconfig.json
+C:\Users\nghia\source\repos\MDI Form\MDI Form\bin\Debug\net6.0-windows\MDI Form.dll
+C:\Users\nghia\source\repos\MDI Form\MDI Form\bin\Debug\net6.0-windows\MDI Form.pdb
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.csproj.AssemblyReference.cache
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI_Form.ChilForm.Form_Fraction.resources
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI_Form.ChilForm.Form_Quadratic.resources
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI_Form.ChilForm.Form_Triangle.resources
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI_Form.Form1.resources
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.csproj.GenerateResource.cache
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.AssemblyInfoInputs.cache
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.AssemblyInfo.cs
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.csproj.CoreCompileInputs.cache
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.dll
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\refint\MDI Form.dll
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.pdb
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\MDI Form.genruntimeconfig.cache
+C:\Users\nghia\source\repos\MDI Form\MDI Form\obj\Debug\net6.0-windows\ref\MDI Form.dll

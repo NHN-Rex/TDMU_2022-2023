@@ -1,0 +1,10 @@
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\bin\Debug\Hotel_Manager.exe.config
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\bin\Debug\Hotel_Manager.exe
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\bin\Debug\Hotel_Manager.pdb
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.csproj.AssemblyReference.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.csproj.SuggestedBindingRedirects.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.Properties.Resources.resources
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.csproj.GenerateResource.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.csproj.CoreCompileInputs.cache
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.exe
+D:\TTNT\2022-2023\HK3\Lập_trình_Winform\HTM\Hotel_Manager\obj\Debug\Hotel_Manager.pdb

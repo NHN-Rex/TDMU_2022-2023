@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages\\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0",
+    "\\packages\\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\\lib",
+    "\\packages\\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\\lib\\net40",
+    "\\packages\\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1586.0\\license",
+    "\\packages\\Microsoft.SqlServer.Types.14.0.314.76",
+    "\\WindowsFormsApp1"
+  ],
+  "SelectedNode": "\\WindowsFormsApp1\\Form1.cs",
+  "PreviewInSolutionExplorer": false
+}

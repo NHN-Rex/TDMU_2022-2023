@@ -1,0 +1,34 @@
+*{ 
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+}
+
+body{
+  background-color: #CCFFFF;
+}
+
+.home{
+  text-align: center;
+  font-size: 80px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+.head{
+  width: auto;
+  height: 45px;
+  background-color: white;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: monospace;
+}
+
+a{
+  vertical-align: middle;
+  text-decoration: none;
+  color: black;
+  padding-left: 50px;
+}

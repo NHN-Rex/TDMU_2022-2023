@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Child_Form\Form_DanhSachNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_DanhSachPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_DanhSachDichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_GiaHanPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_GiaHan_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_KhachHang_Dialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_DanhSachKhachThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_DanhSachLoaiPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_Login1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_DanhSachThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_TaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_ThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_ThongKe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_TraPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_TraPhong1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_ViTri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\Form_Wellcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Child_Form\test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

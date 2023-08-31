@@ -1,0 +1,50 @@
+Bậc của 1 nút: số cây con của nút đó.
+Bậc của 1 cây: bậc lớn nhất của các nút trong cây.
+Nút gốc: nút không có nút cha.
+Nút lá: nút có bậc = 0.
+Nút nhánh: nút có bậc khác 0 và không phải là gốc.
+
+Mức của 1 nút:
+    Mức (Gốc T) = 0.
+    Gọi T_1, T_2, ..., T_n là các cây con của T_0
+        Mức(T_1)=Mức(T_2)=...=Mức(T_n)+1.
+
+Độ dà đường đi từ gốc đến nút x là số nhánh cần đi qua kể từ gốc đến x.
+Độ dài đường đi tổng của cây = tổng độ dài đường đi đến các nút.
+Độ dài đường đi trung bình = độ dài đường đi tổng của cây/n (với n là số nút trên cây T)
+
+Rừng cây: là tập hợp nhiều cây trong đó thứ tự các cây là quan trọng (LTĐT)
+
+
+void NLR(TREE Root){
+    if(Root != NULL){
+        //xu li Root
+        //cout << Root->key << " ";
+        NLR(Root->pleft);
+        NLR(Root->pright);
+    }
+}
+
+void LNR(TREE Root){
+    if(Root != NULL){
+        LNR(Root->pleft);
+        //xu li Root
+        //cout << Root->key << " ";
+        LNR(Root->pright);
+    }
+}
+
+void LRN(TREE Root){
+    if(Root != NULL){
+        LRN(Root->pleft);
+        LRN(Root->pright);
+        //xu li Root
+        //cout << Root->key << " ";
+    }
+}
+
+
+BT: đếm số nút của cây.
+đếm số nút lá.
+Tạo cây nhị phân bằng DSLKĐ.
+nhập xuất cây.

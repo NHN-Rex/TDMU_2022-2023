@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hotel_manager": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

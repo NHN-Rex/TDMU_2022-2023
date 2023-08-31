@@ -1,0 +1,37 @@
+1f
+create proc usp_ktnv @manv char(10), @mapb char(10)
+as
+begin
+	select *
+	from nhanvien nv, phongban pb
+	if nv.ma_nql = @manv and nv.phg = @mapb
+	print ('nhan vien thuoc phong ban')
+	else
+	print ('nhan vien khong thuoc phong ban')
+end
+
+exec usp_ktnv @manv
+exec usp_ktnv @mapb
+
+1e
+create proc usp_nvctp @matphg
+as
+begin
+	select *
+	from nhanvien nv, phongban pb
+	where @matphg =	nv.manv and pb.maphg = nv.phg and pb.trphg = nv.manv
+end
+
+exec usp_nvctp @matphgcr
+
+2
+create proc usp_addphong @maphong int, @tenphong char(10), @trphg char(3), @nnc date
+as
+begin
+	if not exists (select * from phongban pb where pb.maphg = @maphong)
+	insert into phongban(maphg, tenphg, trphg,ngay_nhanchuc)
+	else
+	print ('ma phong ban da ton tai')
+end
+
+exec usp_addphong 8, N'tổ chức', N'123', '12/20/2000'
